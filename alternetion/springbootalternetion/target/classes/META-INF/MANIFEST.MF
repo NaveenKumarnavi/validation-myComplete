@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jss
+Build-Jdk: 17.0.1
+Implementation-Title: SpringBootDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ram
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootDemo
+Created-By: Maven Integration for Eclipse
+
